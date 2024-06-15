@@ -105,7 +105,7 @@ h1 {
 }
 
 label {
-  font-family: cursive;
+  font-family: "Comic Sans MS";
   font-weight: bold;
   align-self: center;
   font-size: 1.2rem;
@@ -163,12 +163,12 @@ label {
 
 #pokemon-name, #pokemon-id {
   font-weight: bold;
-  font-family: cursive;
+  font-family: "Comic Sans MS";
 }
 
 #height, #weight {
   /* font-weight: bold; */
-  /* font-family: cursive; */
+  /* font-family: "Comic Sans MS"; */
   font-style: italic;
 }
 
@@ -220,7 +220,7 @@ th {
 #types {
   color: black;
   font-weight: bolder;
-  font-family: cursive;
+  font-family: "Comic Sans MS";
   min-height: 32px;
   display: flex;
   flex-wrap: wrap;
